@@ -1,0 +1,4 @@
+venv/
+leadinfo_assessment/scrapy_business_project/domain-list.csv
+leadinfo_assessment/scrapy_business_project/__pycache__/
+
